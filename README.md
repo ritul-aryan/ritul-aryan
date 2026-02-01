@@ -29,6 +29,9 @@ I am a **BCA Undergrad** specializing in **AI & Data Science**. I am a passionat
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritul-aryan&show_icons=true&theme=radical&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritul-aryan&layout=compact&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritul-aryan&show_icons=true&theme=radical" alt="Ritul's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritul-aryan&layout=compact&theme=radical" alt="Top Languages" />
 </p>

@@ -1,4 +1,4 @@
-### Hi there, I'm Ritul! 👋
+### Hi there, I'm Ritul Aryan! 👋
 
 I am a **BCA Undergrad** specializing in **AI & Data Science**. I am a passionate developer who loves building software that solves real-world problems.
 
@@ -27,12 +27,11 @@ I am a **BCA Undergrad** specializing in **AI & Data Science**. I am a passionat
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritul-aryan&theme=radical&no-frame=true&margin-w=15" />
-</p>
+### 🚀 Projects
+I love building open-source projects! Check out my pinned repositories below to see my work in **Computer Vision** and **Automation**.
 
-### 📊 Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritul-aryan&theme=radical" alt="Ritul's Streak" />
+<p align="left">
+<a href="https://linkedin.com/in/ritul-aryan">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
 </p>
